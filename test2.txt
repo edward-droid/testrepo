@@ -1,1 +1,2 @@
 This is test 2.
+There are more modifications to the file on July 24, 2020.
